@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.docManageSystem.QDBChallnge.QdbChallngeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 13.471 s <<< FAILURE! - in com.docManageSystem.QDBChallnge.QdbChallngeApplicationTests
+testGetDownloadWithAuthentication  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'java.lang.AutoCloseable org.mockito.MockitoAnnotations.openMocks(java.lang.Object)'
+
+testPostUploadWithAuthentication  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'java.lang.AutoCloseable org.mockito.MockitoAnnotations.openMocks(java.lang.Object)'
+
+testGetgetAllPostsWithAuthentication  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'java.lang.AutoCloseable org.mockito.MockitoAnnotations.openMocks(java.lang.Object)'
+
+testPostCommentWithAuthentication  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'java.lang.AutoCloseable org.mockito.MockitoAnnotations.openMocks(java.lang.Object)'
+
